@@ -1,3 +1,3 @@
 git is a distributed control system.
 git is free software.
-i will be a creator.
+i will be a creator and vlogger.
